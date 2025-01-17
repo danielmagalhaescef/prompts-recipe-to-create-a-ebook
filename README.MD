@@ -7,7 +7,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/Dayanneportugal/prompts-recipe-to-create-a-ebook/blob/main/EBOOK%20BOOTCAMP.pdf"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Dayanneportugal/prompts-recipe-to-create-a-ebook/blob/main/EBOOK%20BOOTCAMP.pdf"> 
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -22,15 +22,14 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de benefícios sociais de transferência de renda, o ebook é do nicho de bancário e o subnicho é de caixa economica federal, o título deve ser épico e curto, e tenha uma temática de nordeste brasileiro, me liste 5 variações de títulos                                                      |
-| conteúdo | Crie um texto em formato para ebook que terá o seguinte titulo "Sertão em Ascensão: Benefícios Sociais que Mudam Vidas", o foco do conteúdo é demonstrar como os beneficios sociais de transferencia de renda são importantes para inclusão bancária e diminuição da desigualdade social {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de pessoas em contextos reais , sempre deixe um título sugestivo por tópico |
-
+|  título  | Crie um título dpara ebook, com foco marketing, o ebook é do nicho de conceitos fundamentais e listando os principais termos usados ​​pelo grande público de forma incorreta, liste cinco variações de títulos                                                      |
+| conteúdo | Faça um texto para ebook, com foco marketing, o ebook é do nicho de conceitos fundamentais e listando os principais termos usados ​​pelo grande público de forma incorreta, explicando o conceito e as diferenças de cada termo, a diferença do termo promoção (4Ps ) e do termo liquidação da rede varejista, o conceito e a diferença entre cliente e lead, numa temática mais informal, com linguagem neutra.
 
 Bing：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Crie uma imagem do sertão do nordeste brasileiro e uma agencia da caixa economica federal prestando o atendimento a população para pagamento de beneficios sociais de transferencia de renda |
+| imagem | Crie uma capa para ebook com o título "Marketing na Pratica: Termos Tecnicos Sem Confusao" em formato de capa de jornal com a palavra markenting em cor branca e fundo vermelho |
 
 ## ✨ Features
 
